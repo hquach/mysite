@@ -1,2 +1,2 @@
 # Summary
-This is a micro-app built in Flask framework to test passenger deployment over shared servers.
+This is a Single-Page Applications (SPAs) buit within Flask framework to test passenger deployment over shared servers.
